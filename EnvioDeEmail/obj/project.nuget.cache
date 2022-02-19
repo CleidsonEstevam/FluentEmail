@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YuZwakutDIMTt1+WU/c/n/A7rjKhUFr9665bQCp8B256f9OCRd1JrNyJhtCfmxerpjayYvtQ22YzMr+nLADmFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\cleid\\source\\repos\\EnvioDeEmail\\EnvioDeEmail\\EnvioDeEmail.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cleid\\.nuget\\packages\\fluentemail.core\\3.0.0\\fluentemail.core.3.0.0.nupkg.sha512",
+    "C:\\Users\\cleid\\.nuget\\packages\\fluentemail.smtp\\3.0.0\\fluentemail.smtp.3.0.0.nupkg.sha512",
+    "C:\\Users\\cleid\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.11\\microsoft.extensions.dependencyinjection.abstractions.3.1.11.nupkg.sha512",
+    "C:\\Users\\cleid\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
